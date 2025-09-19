@@ -1,0 +1,394 @@
+# depslib dependency file v1.0
+1687296718 source:c:\users\abrum\onedrive\desktop\proyecto final 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"usuario.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1490112218 c:\users\abrum\onedrive\desktop\proyecto final 2\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687292983 c:\users\abrum\onedrive\desktop\proyecto final 2\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685631768 source:c:\users\abrum\onedrive\desktop\proyecto final 2\pila.c
+	"pila.h"
+
+1687230078 source:c:\users\abrum\onedrive\desktop\proyecto final 2\usuario.c
+	"usuario.h"
+	<ctype.h>
+	"pila.h"
+	<time.h>
+
+1685631768 source:f:\ivan\desktop\proyecto final 3\pila.c
+	"pila.h"
+
+1490112218 f:\ivan\desktop\proyecto final 3\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687316577 source:f:\ivan\desktop\proyecto final 3\usuario.c
+	"usuario.h"
+	<ctype.h>
+	"pila.h"
+	<time.h>
+
+1687316044 f:\ivan\desktop\proyecto final 3\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687316515 source:f:\ivan\desktop\proyecto final 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"usuario.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1687362826 source:c:\users\usuario\desktop\proyecto final 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"usuario.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1490112218 c:\users\usuario\desktop\proyecto final 3\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687361942 c:\users\usuario\desktop\proyecto final 3\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sueldo.h"
+
+1685631768 source:c:\users\usuario\desktop\proyecto final 3\pila.c
+	"pila.h"
+
+1687362826 source:c:\users\usuario\desktop\proyecto final 3\usuario.c
+	"usuario.h"
+	<ctype.h>
+	"pila.h"
+	<time.h>
+
+1687362572 c:\users\usuario\desktop\proyecto final 3\sueldo.h
+	<stdio.h>
+	<stdlib.h>
+
+1687362588 source:c:\users\usuario\desktop\proyecto final 3\sueldo.c
+	<ctype.h>
+	"pila.h"
+	"sueldo.h"
+	<string.h>
+	<time.h>
+
+1687381277 source:c:\users\quiro\desktop\proyecto final 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"usuario.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1490112218 c:\users\quiro\desktop\proyecto final 3\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687384471 c:\users\quiro\desktop\proyecto final 3\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sueldo.h"
+	"antiguedad.h"
+
+1687381162 c:\users\quiro\desktop\proyecto final 3\sueldo.h
+	<stdio.h>
+	<stdlib.h>
+
+1685631768 source:c:\users\quiro\desktop\proyecto final 3\pila.c
+	"pila.h"
+
+1687381981 source:c:\users\quiro\desktop\proyecto final 3\sueldo.c
+	<ctype.h>
+	"pila.h"
+	"sueldo.h"
+	<string.h>
+	<time.h>
+
+1687384533 source:c:\users\quiro\desktop\proyecto final 3\usuario.c
+	"usuario.h"
+	<ctype.h>
+	"pila.h"
+	<time.h>
+
+1687384454 source:c:\users\quiro\desktop\proyecto final 3\antiguedad.c
+	<ctype.h>
+	"antiguedad.h"
+	<string.h>
+	<time.h>
+
+1687384454 c:\users\quiro\desktop\proyecto final 3\antiguedad.h
+	<stdio.h>
+	<stdlib.h>
+
+1687404246 source:c:\users\user\desktop\proyecto final 4\antiguedad.c
+	<ctype.h>
+	"antiguedad.h"
+	<string.h>
+	<time.h>
+
+1687384456 c:\users\user\desktop\proyecto final 4\antiguedad.h
+	<stdio.h>
+	<stdlib.h>
+
+1687904922 source:c:\users\user\desktop\proyecto final 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"usuario.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1490112218 c:\users\user\desktop\proyecto final 4\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687904922 c:\users\user\desktop\proyecto final 4\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sueldo.h"
+	"antiguedad.h"
+
+1687897146 c:\users\user\desktop\proyecto final 4\sueldo.h
+	<stdio.h>
+	<stdlib.h>
+
+1685631768 source:c:\users\user\desktop\proyecto final 4\pila.c
+	"pila.h"
+
+1687899506 source:c:\users\user\desktop\proyecto final 4\sueldo.c
+	<ctype.h>
+	"pila.h"
+	"sueldo.h"
+	<string.h>
+	<time.h>
+
+1687916292 source:c:\users\user\desktop\proyecto final 4\usuario.c
+	"usuario.h"
+	<ctype.h>
+	"pila.h"
+	<time.h>
+
+1687384456 source:c:\users\abrum\onedrive\desktop\proyecto final 4\antiguedad.c
+	<ctype.h>
+	"antiguedad.h"
+	<string.h>
+	<time.h>
+
+1687384456 c:\users\abrum\onedrive\desktop\proyecto final 4\antiguedad.h
+	<stdio.h>
+	<stdlib.h>
+
+1687400888 source:c:\users\abrum\onedrive\desktop\proyecto final 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"usuario.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1490112218 c:\users\abrum\onedrive\desktop\proyecto final 4\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687396917 c:\users\abrum\onedrive\desktop\proyecto final 4\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sueldo.h"
+	"antiguedad.h"
+
+1687381164 c:\users\abrum\onedrive\desktop\proyecto final 4\sueldo.h
+	<stdio.h>
+	<stdlib.h>
+
+1685631768 source:c:\users\abrum\onedrive\desktop\proyecto final 4\pila.c
+	"pila.h"
+
+1687381982 source:c:\users\abrum\onedrive\desktop\proyecto final 4\sueldo.c
+	<ctype.h>
+	"pila.h"
+	"sueldo.h"
+	<string.h>
+	<time.h>
+
+1687400903 source:c:\users\abrum\onedrive\desktop\proyecto final 4\usuario.c
+	"usuario.h"
+	<ctype.h>
+	"pila.h"
+	<time.h>
+
+1687404245 source:c:\users\abrum\downloads\proyecto final 4\antiguedad.c
+	<ctype.h>
+	"antiguedad.h"
+	<string.h>
+	<time.h>
+
+1687384456 c:\users\abrum\downloads\proyecto final 4\antiguedad.h
+	<stdio.h>
+	<stdlib.h>
+
+1687904921 source:c:\users\abrum\downloads\proyecto final 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"usuario.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1490112218 c:\users\abrum\downloads\proyecto final 4\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687904921 c:\users\abrum\downloads\proyecto final 4\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sueldo.h"
+	"antiguedad.h"
+
+1687897145 c:\users\abrum\downloads\proyecto final 4\sueldo.h
+	<stdio.h>
+	<stdlib.h>
+
+1685631768 source:c:\users\abrum\downloads\proyecto final 4\pila.c
+	"pila.h"
+
+1687899504 source:c:\users\abrum\downloads\proyecto final 4\sueldo.c
+	<ctype.h>
+	"pila.h"
+	"sueldo.h"
+	<string.h>
+	<time.h>
+
+1687904982 source:c:\users\abrum\downloads\proyecto final 4\usuario.c
+	"usuario.h"
+	<ctype.h>
+	"pila.h"
+	<time.h>
+
+1687404246 source:c:\users\lauta\desktop\proyecto final\antiguedad.c
+	<ctype.h>
+	"antiguedad.h"
+	<string.h>
+	<time.h>
+
+1687384456 c:\users\lauta\desktop\proyecto final\antiguedad.h
+	<stdio.h>
+	<stdlib.h>
+
+1687920900 source:c:\users\lauta\desktop\proyecto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"usuario.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1490112218 c:\users\lauta\desktop\proyecto final\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687904922 c:\users\lauta\desktop\proyecto final\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sueldo.h"
+	"antiguedad.h"
+
+1687897146 c:\users\lauta\desktop\proyecto final\sueldo.h
+	<stdio.h>
+	<stdlib.h>
+
+1685631768 source:c:\users\lauta\desktop\proyecto final\pila.c
+	"pila.h"
+
+1687899506 source:c:\users\lauta\desktop\proyecto final\sueldo.c
+	<ctype.h>
+	"pila.h"
+	"sueldo.h"
+	<string.h>
+	<time.h>
+
+1687916436 source:c:\users\lauta\desktop\proyecto final\usuario.c
+	"usuario.h"
+	<ctype.h>
+	"pila.h"
+	<time.h>
+
+1687404246 source:c:\users\abrum\onedrive\desktop\proyecto final\antiguedad.c
+	<ctype.h>
+	"antiguedad.h"
+	<string.h>
+	<time.h>
+
+1687384456 c:\users\abrum\onedrive\desktop\proyecto final\antiguedad.h
+	<stdio.h>
+	<stdlib.h>
+
+1687925895 source:c:\users\abrum\onedrive\desktop\proyecto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"usuario.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1490112218 c:\users\abrum\onedrive\desktop\proyecto final\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687904922 c:\users\abrum\onedrive\desktop\proyecto final\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sueldo.h"
+	"antiguedad.h"
+
+1687897146 c:\users\abrum\onedrive\desktop\proyecto final\sueldo.h
+	<stdio.h>
+	<stdlib.h>
+
+1685631768 source:c:\users\abrum\onedrive\desktop\proyecto final\pila.c
+	"pila.h"
+
+1687899506 source:c:\users\abrum\onedrive\desktop\proyecto final\sueldo.c
+	<ctype.h>
+	"pila.h"
+	"sueldo.h"
+	<string.h>
+	<time.h>
+
+1687926470 source:c:\users\abrum\onedrive\desktop\proyecto final\usuario.c
+	"usuario.h"
+	<ctype.h>
+	"pila.h"
+	<time.h>
+
